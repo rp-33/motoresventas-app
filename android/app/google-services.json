@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "260452926706",
+    "firebase_url": "https://motoresventas-2602.firebaseio.com",
+    "project_id": "motoresventas-2602",
+    "storage_bucket": "motoresventas-2602.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260452926706:android:f871e576b3ad794a187c6b",
+        "android_client_info": {
+          "package_name": "com.motoresventas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260452926706-b2csetmeq0dv119rdnfrtcmkrtars0e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motoresventas",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "260452926706-6dc54f3bnrmp7nqd9qs4nkqsm4bc3lam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzCoLuiWxHhIr8IrtvW3FtGUIZ-eCFIaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260452926706-6dc54f3bnrmp7nqd9qs4nkqsm4bc3lam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
